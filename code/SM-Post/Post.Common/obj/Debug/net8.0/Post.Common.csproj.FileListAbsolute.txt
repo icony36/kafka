@@ -1,0 +1,15 @@
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Common\bin\Debug\net8.0\Post.Common.deps.json
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Common\bin\Debug\net8.0\Post.Common.dll
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Common\bin\Debug\net8.0\Post.Common.pdb
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Common\bin\Debug\net8.0\CQRS.Core.dll
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Common\bin\Debug\net8.0\CQRS.Core.pdb
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Common\obj\Debug\net8.0\Post.Common.csproj.AssemblyReference.cache
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Common\obj\Debug\net8.0\Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Common\obj\Debug\net8.0\Post.Common.AssemblyInfoInputs.cache
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Common\obj\Debug\net8.0\Post.Common.AssemblyInfo.cs
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Common\obj\Debug\net8.0\Post.Common.csproj.CoreCompileInputs.cache
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Common\obj\Debug\net8.0\Post.Com.894DB8FF.Up2Date
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Common\obj\Debug\net8.0\Post.Common.dll
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Common\obj\Debug\net8.0\refint\Post.Common.dll
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Common\obj\Debug\net8.0\Post.Common.pdb
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Common\obj\Debug\net8.0\ref\Post.Common.dll

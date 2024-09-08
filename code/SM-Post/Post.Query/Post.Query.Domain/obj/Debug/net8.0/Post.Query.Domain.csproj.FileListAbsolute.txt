@@ -1,0 +1,17 @@
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net8.0\Post.Query.Domain.deps.json
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net8.0\Post.Query.Domain.dll
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net8.0\Post.Query.Domain.pdb
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net8.0\CQRS.Core.dll
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net8.0\Post.Common.dll
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net8.0\CQRS.Core.pdb
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net8.0\Post.Common.pdb
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\Post.Query.Domain.csproj.AssemblyReference.cache
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\Post.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\Post.Query.Domain.AssemblyInfoInputs.cache
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\Post.Query.Domain.AssemblyInfo.cs
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\Post.Query.Domain.csproj.CoreCompileInputs.cache
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\Post.Que.097346E7.Up2Date
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\Post.Query.Domain.dll
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\refint\Post.Query.Domain.dll
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\Post.Query.Domain.pdb
+F:\Coding\ASP.NET\Kafka\code\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net8.0\ref\Post.Query.Domain.dll

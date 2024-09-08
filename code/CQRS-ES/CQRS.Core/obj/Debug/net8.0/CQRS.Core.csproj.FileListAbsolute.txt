@@ -1,0 +1,12 @@
+F:\Coding\ASP.NET\Kafka\code\CQRS-ES\CQRS.Core\bin\Debug\net8.0\CQRS.Core.deps.json
+F:\Coding\ASP.NET\Kafka\code\CQRS-ES\CQRS.Core\bin\Debug\net8.0\CQRS.Core.dll
+F:\Coding\ASP.NET\Kafka\code\CQRS-ES\CQRS.Core\bin\Debug\net8.0\CQRS.Core.pdb
+F:\Coding\ASP.NET\Kafka\code\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.csproj.AssemblyReference.cache
+F:\Coding\ASP.NET\Kafka\code\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding\ASP.NET\Kafka\code\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.AssemblyInfoInputs.cache
+F:\Coding\ASP.NET\Kafka\code\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.AssemblyInfo.cs
+F:\Coding\ASP.NET\Kafka\code\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.csproj.CoreCompileInputs.cache
+F:\Coding\ASP.NET\Kafka\code\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.dll
+F:\Coding\ASP.NET\Kafka\code\CQRS-ES\CQRS.Core\obj\Debug\net8.0\refint\CQRS.Core.dll
+F:\Coding\ASP.NET\Kafka\code\CQRS-ES\CQRS.Core\obj\Debug\net8.0\CQRS.Core.pdb
+F:\Coding\ASP.NET\Kafka\code\CQRS-ES\CQRS.Core\obj\Debug\net8.0\ref\CQRS.Core.dll
